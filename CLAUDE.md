@@ -4,11 +4,11 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project
 
-Single self-contained HTML travel itinerary in Traditional Chinese for a 5-day Tokyo + Mt. Fuji trip. No build step — open `東京五天四夜旅遊計畫.html` directly in any browser.
+Single self-contained HTML travel itinerary in Traditional Chinese for a 5-day Tokyo + Mt. Fuji trip. No build step — open `index.html` directly in any browser.
 
 ## File
 
-`東京五天四夜旅遊計畫.html` — the only file to edit (~1,360 lines of HTML/CSS/JS).
+`index.html` — the only file to edit (~1,360 lines of HTML/CSS/JS).
 
 ## Architecture
 
